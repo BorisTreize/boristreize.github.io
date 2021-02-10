@@ -1,3 +1,5 @@
 body{
-  padding: 10%;
+  padding-right: 10%;
+  pagging-left: 10%;
+  pagging-top: 20px;
 }
